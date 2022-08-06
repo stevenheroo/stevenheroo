@@ -19,6 +19,7 @@
   </a>
 </div>
 
+---
 <div id="badges" align="center">
   <a href="https://github.com/stevenheroo">
   <img src="https://github-readme-stats.vercel.app/api?username=stevenheroo&theme=nord&show_icons=true&count_private=true&hide=contribs&line_height=40"/>
@@ -29,6 +30,7 @@
   </a>
 </div>
 
+---
 ### :man_technologist: About Me :
 I am a software developer, i love building problem solving apps:
 - 🔭 I’m interested in Go lang cloud web development ...
@@ -36,6 +38,7 @@ I am a software developer, i love building problem solving apps:
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fianu-stephen-7a880319a/)
 - ⚡ Fun fact: Don't stop coding...
 
+---
 ### :technologist: Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -55,8 +58,14 @@ I am a software developer, i love building problem solving apps:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+---
 ### :fire: My Stats :
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=stevenheroo"/>
+
+---
+### :writing_hand: Blog Posts :
+coming soon ..
+
 
 
 
