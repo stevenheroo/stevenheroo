@@ -56,10 +56,6 @@ I am a software developer, i love building problem solving apps:
 </div>
 
 ---
-### :fire: My Stats :
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=stevenheroo"/>
-
----
 ### :writing_hand: Blog Posts :
 coming soon ..
 
