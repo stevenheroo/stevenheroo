@@ -30,7 +30,7 @@
 
 ---
 ### :man_technologist: About Me :
-I am a software developer, i love building problem solving apps:
+I am a software developer, I love building problem-solving apps:
 - 🔭 I’m interested in Go lang cloud web development ...
 - 🌱 I’m currently learning Messaging Queue KAFKA  ...
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fianu-stephen-7a880319a/)
@@ -51,7 +51,7 @@ I am a software developer, i love building problem solving apps:
 
 ---
 ### :writing_hand: Blog Posts :
-coming soon ..
+coming soon...
 
 
 
