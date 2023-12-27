@@ -19,7 +19,6 @@
 
 
 <div id="badges" align="center">
-  ![stevenheroo's Top Languages]()
   <a href="https://github.com/stevenheroo">
   <img src="https://github-readme-stats.vercel.app/api?username=stevenheroo&theme=nord&show_icons=true&count_private=true&hide=contribs&line_height=40"/>
   </a>
