@@ -17,7 +17,7 @@
   </a>
 </div>
 
-🚀 Software Engineer | 🌐 [Portfolio](https://your-portfolio-website.com) | [LINKEDIN](https://www.linkedin.com/in/fianu-stephen-7a880319a/")
+🚀 Software Engineer | 🌐 [Portfolio](https://your-portfolio-website.com) | [LINKEDIN](https://www.linkedin.com/in/fianu-stephen-7a880319a/)
 
 ## About Me
 
@@ -27,7 +27,7 @@ I'm a passionate software engineer with expertise in :
 
 - **Full-Stack Development:** I specialize in both frontend and backend development, creating seamless user experiences while ensuring robust and scalable server-side functionality.
 
-- **Technologies I Love:** My toolkit includes languages like Java, Typescript, Go and Python. I'm well-versed in frontend frameworks such as Angular and Vue, and I enjoy working with Springboot, and Nestjs for backend development.
+- **Technologies I Love:** My toolkit includes languages like Java, Typescript, Go, and Python. I'm well-versed in frontend frameworks such as Angular and Vue, and I enjoy working with Springboot, and Nestjs for backend development.
 
 - **Problem Solver:** I thrive on solving complex problems. Whether it's optimizing algorithms, architecting efficient systems, or troubleshooting bugs, I'm always up for a challenge.
 
