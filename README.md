@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="logo6.svg" width="200" height="200"/>
+  <img src="skep-the-coder-high-resolution-logo-white-transparent.png" width="250" height="200"/>
 </div>
 
 <div id="badges" align="center">
