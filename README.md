@@ -19,14 +19,14 @@
 
 
 <div id="badges" align="center">
-  ![stevenheroo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenheroo&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-<!--   <a href="https://github.com/stevenheroo">
+  ![stevenheroo's Top Languages]()
+  <a href="https://github.com/stevenheroo">
   <img src="https://github-readme-stats.vercel.app/api?username=stevenheroo&theme=nord&show_icons=true&count_private=true&hide=contribs&line_height=40"/>
   </a>
 
   <a href="https://github.com/stevenheroo">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenheroo&theme=nord&langs_count=4&hide=ejs" height="245"/>
-  </a> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenheroo&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="245"/>
+  </a>
 </div>
 
 ---
